@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hej! Jag heter Akexander
 
+Javautvecklare student på Nackademin
+
+## Tekniker
+- Java
+- Spring Boot
+- M
 <!--
 **AlexanderJava11/AlexanderJava11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
